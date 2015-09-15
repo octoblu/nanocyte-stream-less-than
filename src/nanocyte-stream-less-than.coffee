@@ -1,4 +1,3 @@
-#example from http://blog.jeroenpelgrims.be/node-streams-in-coffeescript/
 {Transform} = require 'stream'
 
 class LessThanStream extends Transform
