@@ -1,0 +1,33 @@
+{
+  "name": "nanocyte-stream-less-than",
+  "version": "1.1.7",
+  "description": "less than stream for Nanocyte",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octoblu/nanocyte-stream-less-than.git"
+  },
+  "keywords": [
+    "octoblu",
+    "meshblu",
+    "IoT",
+    "nanocyte",
+    "stream"
+  ],
+  "author": "sqrt@octoblu.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octoblu/nanocyte-stream-less-than/issues"
+  },
+  "homepage": "https://github.com/octoblu/nanocyte-stream-less-than#readme",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "coffee-script": "^1.10.0",
+    "mocha": "^2.3.2",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0"
+  }
+}⏎
